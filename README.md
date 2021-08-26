@@ -1,2 +1,2 @@
 # db_tool
-SPRING-MVC web application 
+SPRING MVC web application 
